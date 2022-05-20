@@ -1,11 +1,9 @@
-# testTaskOFD
-
 # Java UI testing automation framework
 
 ### Simple UI test to https://www.1-ofd.ru/
 
 
-##### This project build with stack: `Java + Selenide + Junit5 + Hamcrest + Allure `
+##### Стек проекта: `Java + Selenide + Junit5 + Hamcrest + Allure `
 
 ## Запуск и прогон тестов
 
